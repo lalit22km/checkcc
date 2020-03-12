@@ -713,56 +713,64 @@ section.lazy-placeholder:after {
 .cid-rRGnXprfTw {
   background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rRGp4bKg8J {
+.cid-rT0RXUBz6l {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rT0RXUBz6l .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rT0SzwqUnb {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rRGp4bKg8J .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
+.cid-rT0SzwqUnb [class^="socicon-"]:before,
+.cid-rT0SzwqUnb [class*=" socicon-"]:before {
+  line-height: 44px;
 }
-.cid-rRGp4bKg8J .mbr-content-text {
-  color: #767676;
+.cid-rT0SzwqUnb .btn-social {
+  font-size: 20px;
+  border-radius: 50%;
+  padding: 0;
+  width: 44px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  position: relative;
+  color: #232323;
+  cursor: pointer;
+  border-color: #149dcc;
 }
-.cid-rRGp4bKg8J .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
+.cid-rT0SzwqUnb .btn-social i {
+  top: 0;
+  line-height: 44px;
+  width: 44px;
 }
-.cid-rRGp4bKg8J .cards-container {
-  display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
+.cid-rT0SzwqUnb .btn-social:hover {
+  color: #fff;
+  background: #149dcc;
+}
+.cid-rT0SzwqUnb .btn-social:hover i.socicon {
+  color: #ffffff !important;
+}
+.cid-rT0SzwqUnb .btn-social + .btn {
+  margin-left: .1rem;
 }
 @media (max-width: 767px) {
-  .cid-rRGp4bKg8J .card:not(.last-child) {
-    padding-bottom: 1.5rem;
+  .cid-rT0SzwqUnb .btn {
+    font-size: 20px !important;
   }
 }
-.cid-rRGp4bKg8J .img-text {
-  color: #c1c1c1;
-}
-.cid-rRGpg5gqpr {
+.cid-rT0SNnbX5Y {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rRGpg5gqpr .mbr-text {
+.cid-rT0SNnbX5Y .mbr-section-subtitle {
   color: #767676;
-  margin: 0;
-  padding-top: 1.5rem;
 }
-.cid-rRGpg5gqpr div.b {
-  padding-top: 2rem;
-}
-.cid-rRGpkMUvEW {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+.cid-rT0SNnbX5Y .btn {
+  margin: 0 0 .5rem 0;
 }
